@@ -1,7 +1,6 @@
 from manim_imports_ext import *
 import math
 
-
 class StreamIntro(Scene):
     def construct(self):
         # Add logo
